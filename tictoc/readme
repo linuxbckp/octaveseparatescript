@@ -1,4 +1,9 @@
- %   toc.m
+Tic Toc
+Option: Output a clock voice 'tic' and 'toc'
+Usage:
+run()
+
+ %   tictoc
  %   Copyright (C) 2020, LinuxBCKP
  %   This library is free software: you can redistribute it and/or modify
  %   it under the terms of the GNU General Public License as published by
@@ -22,4 +27,3 @@
  %   License.  This exception does not however invalidate any other
  %   reasons why the executable file might be covered by the GNU General
  %   Public License.
-fprintf("toc!\n")
